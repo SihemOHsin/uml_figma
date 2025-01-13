@@ -1,4 +1,7 @@
-[Link Text](https://mpdsir.netlify.app/etudiant.html)
-[Link Text](https://mpdsir.netlify.app/iset.html)
-[Link Text](https://mpdsir.netlify.app/ipst.html)
-[Link Text](https://mpdsir.netlify.app/enseignant.html)
+[Student Page](https://mpdsir.netlify.app/etudiant.html)
+
+[ISET Page](https://mpdsir.netlify.app/iset.html)
+
+[IPST Page](https://mpdsir.netlify.app/ipst.html)
+
+[Teacher Page](https://mpdsir.netlify.app/enseignant.html)
